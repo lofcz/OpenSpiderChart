@@ -10,7 +10,7 @@
 ### Compactible with:
 <img align="middle" width="128" height="128" src="https://s21.postimg.org/vghqza03r/rounded_corners.png">
 <img align="middle" src="https://s10.postimg.org/tvc4uhp3t/Lateralgmlogo.png">
-<img align="middle" width="128" height="128" src="https://s15.postimg.org/jrlizdqor/rounded_corners.jpg">
+<img align="middle" width="128" height="128" src="https://s15.postimg.org/jrlizdqor/rounded_corners.jpg"><img align="middle" width="128" height="128" src="https://s21.postimg.org/pisaduls7/rounded_corners.png">  
 
 ### Open spider chart preview: 
 
