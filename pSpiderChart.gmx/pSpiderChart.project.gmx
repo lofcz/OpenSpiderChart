@@ -10,9 +10,25 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\draw_line_angle.gml</script>
+    <script>scripts\draw_line_angle_vec.gml</script>
+    <scripts name="SimplexCore">
+      <scripts name="ASM">
+        <script>scripts\clr.gml</script>
+        <script>scripts\alg.gml</script>
+        <script>scripts\fnt.gml</script>
+        <script>scripts\scl.gml</script>
+        <script>scripts\sfx.gml</script>
+      </scripts>
+      <scripts name="Math">
+        <script>scripts\mathAPI.gml</script>
+      </scripts>
+    </scripts>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\fntPixel</font>
+  </fonts>
   <objects name="objects">
-    <object>objects\object0</object>
+    <object>objects\oChart</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
